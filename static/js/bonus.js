@@ -14,19 +14,19 @@ function gaugeGraph(wfreq) {
           range: [null, 9],
           tickwidth: 1,
           tickmode: "linear"
-        }
-      },
-      steps: [
-        { range: [0, 1], color: "#dbde6d" },
-        { range: [1, 2], color: "#e8c55e" },
-        { range: [2, 3], color: "#f0ab5a" },
-        { range: [3, 4], color: "#f0925e" },
-        { range: [4, 5], color: "#ea7b67" },
-        { range: [5, 6], color: "#dd6773" },
-        { range: [6, 7], color: "#c8597e" },
-        { range: [7, 8], color: "#ad4f87" },
-        { range: [8, 9], color: "#8b4a8c" }
-      ]
+        },
+        steps: [
+          { range: [0, 1], color: "#F6F7E1" },
+          { range: [1, 2], color: "#E9F7D2" },
+          { range: [2, 3], color: "#DFF7CD" },
+          { range: [3, 4], color: "#D6F7CD" },
+          { range: [4, 5], color: "#C8F7CC" },
+          { range: [5, 6], color: "#ADF7BF" },
+          { range: [6, 7], color: "#9CF7AC" },
+          { range: [7, 8], color: "#7CF789" },
+          { range: [8, 9], color: "#52DE6B" }
+        ]
+      }
     }
   ];
 
