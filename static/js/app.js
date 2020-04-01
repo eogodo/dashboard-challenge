@@ -1,5 +1,5 @@
 //file path
-file = "../samples.json";
+file = "./samples.json";
 
 var data = [];
 
